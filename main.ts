@@ -1,4 +1,4 @@
-// Status Report Comedy Sprint — r1: weekly status line (113 chars).
+// Status Report Comedy Sprint — r1: weekly status line, 112 chars, one line.
 // Writes one funny status-report line from an AI agent to its human.
 import { mkdirSync, writeFileSync } from "node:fs";
 
